@@ -1,0 +1,44 @@
+_repo: The-Recollections-of-Alexis-de-Tocqueville_37892
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Mattos, Alexander Teixera de
+    - Teixeira de Mattos, Alexander Louis
+    - De Mattos, Alexander Teixeira
+    - Mattos, Alexander Teixeira de
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tocqueville, Alexis de
+    aliases:
+    - Tocqueville, Alexis Charles Henri Maurice Clérel de
+    - Tocqueville, Alexis Charles Henri Maurice Clerel de
+    - Toqueville, Alexis de
+    - De Tocqueville, Alexis
+    birthdate: 1805
+    deathdate: 1859
+    gutenberg_agent_id: '424'
+    url: http://www.gutenberg.org/2009/agents/424
+    wikipedia: http://en.wikipedia.org/wiki/Alexis_de_Tocqueville
+description: ''
+gutenberg_issued: '2011-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37892'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History -- February Revolution, 1848'
+title: The Recollections of Alexis de Tocqueville
+url: http://www.gutenberg.org/ebooks/37892
